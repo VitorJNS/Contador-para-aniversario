@@ -36,11 +36,6 @@ body * {
   z-index: 1;
 }
 
-h1 {
-  font-size: 60px;
-  margin: -80px 0 40px;
-}
-
 .year {
   font-size: 200px;
   z-index: -1;
@@ -49,6 +44,12 @@ h1 {
   bottom: 20px;
   left: 50%;
   transform: translateX(-50%);
+}
+
+.year2 {
+  font-size: 60px;
+  font-weight: bold;
+  margin: -80px 0 40px;
 }
 
 .countdown {
